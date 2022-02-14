@@ -1,4 +1,4 @@
- Hi, I am a Neuroscience PhD student at Baylor College of Medicine. Currently, I investigate the biophysical mechanisms that enable neurons to process and store information. I am currently learning MATLAB and Python as a tool for my research . Wish me luck!
+ Hi, I am a Neuroscience PhD student at Baylor College of Medicine investigating the biophyical mechanisms that enable neurons to process and store information.
 
 
 
