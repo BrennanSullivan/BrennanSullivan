@@ -1,4 +1,4 @@
- Hi, I am a Neuroscience PhD student at Baylor College of Medicine investigating the biophyical mechanisms that enable neurons to process and store information.
+ Hi, I am a Neuroscience PhD student at Baylor College of Medicine interested in how neurons process and store the information responsible for learning. 
 
 
 
