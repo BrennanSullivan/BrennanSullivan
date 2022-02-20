@@ -1,4 +1,4 @@
- Hi, I am a Neuroscience PhD student at Baylor College of Medicine interested in how neurons process and store the information underlying working learning. 
+I am a Neuroscience PhD student at Baylor College of Medicine interested in how neurons process and store the information underlying working memory. 
 
 
 
