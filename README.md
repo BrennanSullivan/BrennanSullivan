@@ -1,5 +1,4 @@
-I am a Neuroscience PhD student at Baylor College of Medicine studying how neurons process and store the information underlying working memory. 
-
+I am a Neuroscience PhD student in Jeff Magee's lab at Baylor College of Medicine studying the biophysics of synaptic plasticity.
 
 
 <!---
